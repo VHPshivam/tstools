@@ -15,13 +15,15 @@ Apne Kali Linux ya kisi bhi Linux system par is tool ko chalane ke liye niche di
 1. **Repository ko Clone karein:**
    ```bash
    git clone https://github.com/VHPshivam/tstools.git
-   
-cd VHP_NetCheck_v2
 
-2. **nmap install kre:**
+2. **cd kr ke tool pr jay:**
+   ```bash
+   cd VHP_NetCheck_v2
+
+3. **nmap install kre:**
    ```bash
    sudo apt install -y nmap
 
-3. **Tool Ko RUN Kre:**
+4. **Tool Ko RUN Kre:**
    ```bash
    python3 vhp_netcheck.py
