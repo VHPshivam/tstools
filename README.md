@@ -18,7 +18,7 @@ Apne Kali Linux ya kisi bhi Linux system par is tool ko chalane ke liye niche di
 
 2. **cd kr ke tool pr jay:**
    ```bash
-   cd VHP_NetCheck_v2
+   cd tstools
 
 3. **nmap install kre:**
    ```bash
