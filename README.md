@@ -14,9 +14,10 @@ Apne Kali Linux ya kisi bhi Linux system par is tool ko chalane ke liye niche di
 
 1. **Repository ko Clone karein:**
    ```bash
-   git clone [https://github.com/AapkaUsername/vhp-netcheck.git](https://github.com/AapkaUsername/vhp-netcheck.git)
-   cd vhp-netcheck
+   git clone https://github.com/VHPshivam/tstools.git
+   
+cd VHP_NetCheck_v2
 
-   pip install -r requirements.txt
+sudo apt install -y nmap
 
-   python3 vhp_netcheck.py
+python3 vhp_netcheck.py
