@@ -2,9 +2,9 @@
 Yeh network testing tool abhi under development hai. Aap isse test karein aur apna feedback zaroor dein!
 # VHP NETCHECK v2.0 🚀
 **Deep Exposure & Configuration Assessment Tool**
-Created by **VHP_Shivam Rathod**[cite: 1]
+Created by **VHP_Shivam Rathod**
 
-> **Disclaimer:** Authorized assets only | No exploitation, brute force or DoS[cite: 1].
+> **Disclaimer:** Authorized assets only | No exploitation, brute force or DoS.
 
 ---
 
