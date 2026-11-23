@@ -20,6 +20,8 @@ cd VHP_NetCheck_v2
 
 2. **nmap install kre:**
    ```bash
-sudo apt install -y nmap
+   sudo apt install -y nmap
 
-python3 vhp_netcheck.py
+3. **Tool Ko RUN Kre:**
+   ```bash
+   python3 vhp_netcheck.py
