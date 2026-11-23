@@ -18,6 +18,8 @@ Apne Kali Linux ya kisi bhi Linux system par is tool ko chalane ke liye niche di
    
 cd VHP_NetCheck_v2
 
+2. **nmap install kre:**
+   ```bash
 sudo apt install -y nmap
 
 python3 vhp_netcheck.py
